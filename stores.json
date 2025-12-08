@@ -6,25 +6,25 @@
       "description": "Elegance, style and protection for your gadgets.",
       "imageUrl": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d",
       "rating": 4.3,
-      "category": "electronics",
+      "category": "جربات موبايلات وطباعه عليهم",
       "isActive": true
     },
     {
       "id": "5",
-      "name": "متجر العناية",
-      "description": "منتجات عناية مصرية طبيعية",
-      "imageUrl": "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
-      "rating": 4.8,
-      "category": "beauty",
+      "name": "U-TURN",
+      "description": "أفضل ملابس رجالي من حيث الجودة و العر تأسس عام 1999",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8aV-OOosmX_OsZm16kOScCI6mT55y7Mslw&s",
+      "rating": 4.9,
+      "category": "ملابس رجالي",
       "isActive": true
     },
     {
       "id": "8",
-      "name": "متجر الهدايا",
-      "description": "هدايا مميزة بتصميم مصري",
+      "name": "Brand Name Here!",
+      "description": "هنا وصف للبراند",
       "imageUrl": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48",
-      "rating": 4.9,
-      "category": "gifts",
+      "rating": 1.4,
+      "category": "الفئه غير محددة!",
       "isActive": true
     }
   ]

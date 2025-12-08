@@ -10,57 +10,12 @@
       "isActive": true
     },
     {
-      "id": "2",
-      "name": "متجر الملابس المصري",
-      "description": "أجمل الملابس المصرية الأصيلة",
-      "imageUrl": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126",
-      "rating": 4.7,
-      "category": "clothing",
-      "isActive": true
-    },
-    {
-      "id": "3",
-      "name": "مطعم أكلات مصرية",
-      "description": "أشهى المأكولات المصرية التقليدية",
-      "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
-      "rating": 4.5,
-      "category": "food",
-      "isActive": true
-    },
-    {
-      "id": "4",
-      "name": "متجر الأثاث",
-      "description": "أفضل قطع الأثاث المصنوعة محلياً",
-      "imageUrl": "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6",
-      "rating": 4.2,
-      "category": "furniture",
-      "isActive": true
-    },
-    {
       "id": "5",
       "name": "متجر العناية",
       "description": "منتجات عناية مصرية طبيعية",
       "imageUrl": "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
       "rating": 4.8,
       "category": "beauty",
-      "isActive": true
-    },
-    {
-      "id": "6",
-      "name": "متجر الكترونيات",
-      "description": "أحدث الأجهزة الإلكترونية",
-      "imageUrl": "https://images.unsplash.com/photo-1498049794561-7780e7231661",
-      "rating": 4.4,
-      "category": "electronics",
-      "isActive": true
-    },
-    {
-      "id": "7",
-      "name": "متجر الرياضة",
-      "description": "معدات وأدوات رياضية مصرية",
-      "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b",
-      "rating": 4.6,
-      "category": "sports",
       "isActive": true
     },
     {

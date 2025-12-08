@@ -20,9 +20,9 @@
     },
     {
       "id": "8",
-      "name": "Brand Name Here!",
+      "name": "Brand Name Here",
       "description": "هنا وصف للبراند",
-      "imageUrl": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48",
+      "imageUrl": "https://www.manashakti.org/admin/backend/uploads/event/not-found.png",
       "rating": 1.4,
       "category": "الفئه غير محددة!",
       "isActive": true

@@ -22,9 +22,18 @@
       "id": "8",
       "name": "Brand Name Here",
       "description": "هنا وصف للبراند",
-      "imageUrl": "https://www.manashakti.org/admin/backend/uploads/event/not-found.png",
+      "imageUrl": "https://wp-staging.com/wp-content/uploads/2024/09/find-and-fix-WordPress-404-errors.jpg",
       "rating": 1.4,
       "category": "الفئه غير محددة!",
+      "isActive": true
+    }
+     {
+      "id": "11",
+      "name": "Brand Name Here",
+      "description": "هنا وصف للبراند",
+      "imageUrl": "https://wp-staging.com/wp-content/uploads/2024/09/find-and-fix-WordPress-404-errors.jpg",
+      "rating": 1.8,
+      "category": "خصم %10",
       "isActive": true
     }
   ]

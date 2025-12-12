@@ -48,7 +48,7 @@
       "title": "U-TURN خصم 10٪ على براند",
       "description": "!خصم خاص للأول خمسة يلحقوه",
       "code": "welcom-26",
-      "value": "",
+      "value": "%خصم 10",
       "expiryDate": "2026-12-31",
       "isActive": true,
     },

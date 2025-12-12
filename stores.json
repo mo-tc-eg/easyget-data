@@ -45,25 +45,21 @@
   "coupons": [
     {
       "id": "coupon_1",
-      "title": "خصم 10٪ على أول طلب",
-      "description": "خصم خاص للأول خمسة يلحقوه",
-      "code": "WELCOME10",
-      "value": "10%",
+      "title": "U-TURN خصم 10٪ على براند",
+      "description": "!خصم خاص للأول خمسة يلحقوه",
+      "code": "welcom-26",
+      "value": "",
       "expiryDate": "2026-12-31",
       "isActive": true,
-      "category": "خصم عام",
-      "terms": "يُطبق على أول طلب فقط، غير متاح مع عروض أخرى"
     },
     {
       "id": "coupon_2",
       "title": "خصم 200 جنيه",
       "description": "خصم بقيمة 200 جنيه على مشتريات فوق 1000 جنيه",
-      "code": "SAVE200",
+      "code": "EASYGET_SAVE_200",
       "value": "200 جنيه",
       "expiryDate": "2026-01-30",
       "isActive": true,
-      "category": "خصم بقيمة",
-      "terms": "للمشتريات فوق 1000 جنيه، يُطبق مرة واحدة لكل عميل"
     }
   ]
 }

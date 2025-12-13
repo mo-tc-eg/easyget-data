@@ -42,26 +42,4 @@
       "isActive": true
     }
   ],
-  "coupons": [
-    {
-      "id": "coupon_1",
-      "title": "U-TURN خصم 10٪ على براند",
-      "description": "!خصم خاص للأول خمسة يلحقوه",
-      "code": "welcom-26",
-      "value": "خصم 10%",
-      "expiryDate": "2026-12-31",
-      "isActive": true,
-      "isExpired": false
-    },
-    {
-      "id": "coupon_2",
-      "title": "خصم 200 جنيه",
-      "description": "خصم بقيمة 200 جنيه على مشتريات فوق 1000 جنيه",
-      "code": "EASYGET_SAVE_200",
-      "value": "200 جنيه",
-      "expiryDate": "2026-01-30",
-      "isActive": true,
-      "isExpired": false
-    }
-  ]
 }

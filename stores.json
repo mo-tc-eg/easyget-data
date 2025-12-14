@@ -20,14 +20,14 @@
       "description": "أفضل ملابس رجالي من حيث الجودة و السعر تأسس عام 1999",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF8aV-OOosmX_OsZm16kOScCI6mT55y7Mslw&s",
       "rating": 4.9,
-      "category": "ملابس رجالي",
+      "category": "لبس رجالي",
       "isActive": true
     },
     {
       "id": "8",
       "name": "TOWN TEAM",
       "description": "لبس رجالي و شبابي بجودة عالية جدا و أسعار مناسبه للجميع",
-      "imageUrl": "https://www.senzomall.com/structure/shopping/logos/4372461020.jpg",
+      "imageUrl": "https://townteam.com/cdn/shop/files/44027548_2201662006513500_1850313580889505792_n_98818c77-464e-4c63-84a3-95a7b4730846.png?v=1624198271",
       "rating": 5.0,
       "category": "لبس رجالي",
       "isActive": true

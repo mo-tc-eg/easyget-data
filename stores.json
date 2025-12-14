@@ -25,20 +25,11 @@
     },
     {
       "id": "8",
-      "name": "Brand Name Here",
-      "description": "هنا وصف للبراند",
-      "imageUrl": "https://wp-staging.com/wp-content/uploads/2024/09/find-and-fix-WordPress-404-errors.jpg",
-      "rating": 1.4,
-      "category": "الفئه غير محددة!",
-      "isActive": true
-    },
-    {
-      "id": "11",
-      "name": "Brand Name Here",
-      "description": "هنا وصف للبراند",
-      "imageUrl": "https://wp-staging.com/wp-content/uploads/2024/09/find-and-fix-WordPress-404-errors.jpg",
-      "rating": 1.8,
-      "category": "خصم %10",
+      "name": "TOWN TEAM",
+      "description": "لبس رجالي و شبابي بجودة عالية جدا و أسعار مناسبه للجميع",
+      "imageUrl": "https://www.senzomall.com/structure/shopping/logos/4372461020.jpg",
+      "rating": 5.0,
+      "category": "لبس رجالي",
       "isActive": true
     }
   ],
